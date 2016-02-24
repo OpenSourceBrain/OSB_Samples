@@ -8,7 +8,7 @@
       id="neuroml"
       name="NeuroML">
     <types xsi:type="gep_1:ImportType"
-        url="/projects/CA1/BigCA1.net.nml"
+        url="SERVER_ROOT/OSB_Samples/CA1/BigCA1.net.nml"
         modelInterpreterId="neuroMLModelInterpreter"/>
   </libraries>
 </gep:GeppettoModel>

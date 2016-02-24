@@ -14,7 +14,7 @@
       name="NeuroML">
     <types xsi:type="gep_1:ImportType"
         id="net1"
-        url="/projects/SingleComponentHH/LEMS_NML2_Ex5_DetCell.xml"
+        url="SERVER_ROOT/OSB_Samples/SingleComponentHH/LEMS_NML2_Ex5_DetCell.xml"
         referenceURL=""
         modelInterpreterId="lemsModelInterpreter"/>
   </libraries>

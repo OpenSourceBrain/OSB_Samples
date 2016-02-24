@@ -9,7 +9,7 @@
 		  	status: "COMPLETED",
 		  	description:"Network model of primary auditory cortex in rodents. David Beeman, University of Colorado, Boulder. Model developed in NeuroML. Simulation executed in NEURON. For more information see http://opensourcebrain.org/projects/acnet2.",
             "lastModified":"1436102517799",
-		  	script: "/projects/AuditoryCortex/script.js",
+		  	script: "SERVER_ROOT/OSB_Samples/AuditoryCortex/script.js",
 		  	aspectConfigurations: [
 		    {
 		  		id:1,
@@ -36,7 +36,7 @@
 				simulatedInstance: "acnet2",
 		        result: {
 		          id: 1,
-		          url: "/projects/AuditoryCortex/results.h5",
+		          url: "SERVER_ROOT/OSB_Samples/AuditoryCortex/results.h5",
 		          type: "RECORDING"
 		        }
 		  	},
@@ -46,7 +46,7 @@
 				simulatedInstance: "acnet2",
 		        result: {
 		          id: 2,
-		          url: "/projects/AuditoryCortex/rawRecording.zip",
+		          url: "SERVER_ROOT/OSB_Samples/AuditoryCortex/rawRecording.zip",
 		          type: "RECORDING"
 		        }
 		  	}]
@@ -57,7 +57,7 @@
 		  	status: "COMPLETED",
 		  	description:"Network model of primary auditory cortex in rodents. David Beeman, University of Colorado, Boulder. Model developed in NeuroML. Simulation executed in NEURON. For more information see http://opensourcebrain.org/projects/acnet2.",
             "lastModified":"1436102517799",
-		  	script: "/projects/AuditoryCortex/script2.js",
+		  	script: "SERVER_ROOT/OSB_Samples/AuditoryCortex/script2.js",
 		  	aspectConfigurations: [
 		    {
 		  		id:1,
@@ -90,7 +90,7 @@ instance: "acnet2",
 				simulatedInstance: "acnet2",
 		        result: {
 		          id: 1,
-		          url: "/projects/AuditoryCortex/results_2.h5",
+		          url: "SERVER_ROOT/OSB_Samples/AuditoryCortex/results_2.h5",
 		          type: "RECORDING"
 		        }
 		  	},
@@ -100,7 +100,7 @@ instance: "acnet2",
 				simulatedInstance: "acnet2",
 		        result: {
 		          id: 2,
-		          url: "/projects/AuditoryCortex/rawRecording.zip",
+		          url: "SERVER_ROOT/OSB_Samples/AuditoryCortex/rawRecording.zip",
 		          type: "RECORDING"
 		        }
 		  	}]
@@ -108,7 +108,7 @@ instance: "acnet2",
     ],
     "geppettoModel": {
         "id": 9,
-        "url": "/projects/AuditoryCortex/GeppettoModel.xmi",
+        "url": "SERVER_ROOT/OSB_Samples/AuditoryCortex/GeppettoModel.xmi",
         "type": "GEPPETTO_PROJECT"
     }
 }

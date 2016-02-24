@@ -4,7 +4,7 @@
   name: "Hodgkin-Huxley Neuron",
   geppettoModel: {
     id: 1,
-    url: "/projects/SingleComponentHH/GeppettoModel.xmi",
+    url: "SERVER_ROOT/OSB_Samples/SingleComponentHH/GeppettoModel.xmi",
     type: "GEPPETTO_PROJECT"
   },
   experiments: [ 
@@ -14,7 +14,7 @@
   	status: "COMPLETED",
   	description : "The Hodgkin-Huxley model (or conductance-based model) is a mathematical model that describes how action potentials in neurons are initiated and propagated. It is a set of nonlinear differential equations that approximates the electrical characteristics of excitable cells such as neurons.",
     "lastModified":"1436102517799",
-  	script: "/projects/SingleComponentHH/HH_Geppetto_Script.js",
+  	script: "SERVER_ROOT/OSB_Samples/SingleComponentHH/HH_Geppetto_Script.js",
   	aspectConfigurations: [
     {
 		"instance": "hhcell",
@@ -40,7 +40,7 @@
 		"simulatedInstance": "hhcell",
         result: {
           id: 1,
-          url: "/projects/SingleComponentHH/results.h5",
+          url: "SERVER_ROOT/OSB_Samples/SingleComponentHH/results.h5",
           type: "RECORDING"
         }
   	},
@@ -50,7 +50,7 @@
 		"simulatedInstance": "hhcell",
         result: {
           id: 2,
-          url: "/projects/SingleComponentHH/rawRecording.zip",
+          url: "SERVER_ROOT/OSB_Samples/SingleComponentHH/rawRecording.zip",
           type: "RECORDING"
         }
   	}]
