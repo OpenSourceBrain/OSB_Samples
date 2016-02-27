@@ -1,0 +1,21 @@
+{
+  	"id": 8,
+  	"name": "L23 Cell",
+    "activeExperimentId": 1,
+    "experiments": [
+        {
+            "id": 1,
+            "name": "L23 Cell",
+            "description" : "Export of a cell model obtained from the BBP Neocortical Microcircuit Collaboration Portal.  For more information see  http://opensourcebrain.org/projects/blue-brain-project-showcase. For more information on this cell model see: https://bbp.epfl.ch/nmc-portal/microcircuit#/metype/L23_PC_L23PC/details",
+            "status": "COMPLETED",
+            "aspectConfigurations": [],
+            "script": "SERVER_ROOT/OSB_Samples/L23/script.js",
+            "lastModified":"1436102517799"
+        }
+    ],
+    "geppettoModel": {
+        "id": 9,
+        "url": "SERVER_ROOT/OSB_Samples/L23/GeppettoModel.xmi",
+        "type": "GEPPETTO_PROJECT"
+    }
+}
