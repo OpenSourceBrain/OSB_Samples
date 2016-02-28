@@ -1,0 +1,21 @@
+{
+    "id": 2,
+    "name": "Izhikevich Spiking Neuron Model",
+    "activeExperimentId": 1,
+    "experiments": [
+	    {
+		  	id:1,      
+		  	name: "Izhikevich Spiking Neuron Model simulation",
+		  	status: "COMPLETED",
+		  	description:"Re-implementation of Izhikevich’s spiking neuron model. For more information see http://opensourcebrain.org/projects/izhikevichmodel",
+            "lastModified":"1436102517799",
+		  	script: "SERVER_ROOT/OSB_Samples/Izhikevich/script.js",
+		  	aspectConfigurations: [
+		  	]
+	}],
+    "geppettoModel": {
+        "id": 9,
+        "url": "SERVER_ROOT/OSB_Samples/Izhikevich/GeppettoModel.xmi",
+        "type": "GEPPETTO_PROJECT"
+    }
+}

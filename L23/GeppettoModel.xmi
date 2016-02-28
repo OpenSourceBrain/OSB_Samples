@@ -6,15 +6,14 @@
     xmlns:gep="https://raw.githubusercontent.com/openworm/org.geppetto.model/development/src/main/resources/geppettoModel.ecore"
     xmlns:gep_1="https://raw.githubusercontent.com/openworm/org.geppetto.model/development/src/main/resources/geppettoModel.ecore#//types">
   <variables
-      id="acnet2"
-      name="Auditory Cortex Netowrk"
+      id="l23"
+      name="l23"
       types="//@libraries.0/@types.0"/>
   <libraries
       id="neuroml"
       name="NeuroML">
     <types xsi:type="gep_1:ImportType"
-        id="network_ACnet2"
-        url="SERVER_ROOT/OSB_Samples/AuditoryCortex/MediumNet.net.nml"
+        url="SERVER_ROOT/OSB_Samples/L23/cADpyr229_L23_PC_5ecbf9b163.net.nml"
         modelInterpreterId="neuroMLModelInterpreter"/>
   </libraries>
 </gep:GeppettoModel>
