@@ -14,7 +14,7 @@
       id="neuroml"
       name="NeuroML">
     <types xsi:type="gep_1:ImportType"
-        url="SERVER_ROOT/OSB_Samples/CA1/BigCA1.net.nml"
+        url="https://raw.githubusercontent.com/OpenSourceBrain/OSB_Samples/master/CA1/BigCA1.net.nml"
         modelInterpreterId="neuroMLModelInterpreter"/>
   </libraries>
 </gep:GeppettoModel>

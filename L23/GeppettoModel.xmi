@@ -13,7 +13,7 @@
       id="neuroml"
       name="NeuroML">
     <types xsi:type="gep_1:ImportType"
-        url="SERVER_ROOT/OSB_Samples/L23/cADpyr229_L23_PC_5ecbf9b163.net.nml"
+        url="https://raw.githubusercontent.com/OpenSourceBrain/OSB_Samples/master/L23/cADpyr229_L23_PC_5ecbf9b163.net.nml"
         modelInterpreterId="neuroMLModelInterpreter"/>
   </libraries>
 </gep:GeppettoModel>
