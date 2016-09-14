@@ -1,4 +1,5 @@
 
+ca1.CA1_CG[0].setGeometryType('cylinders')
 
 Model.neuroml.morphology_CA1.kad_dendrite_group.show(true)
 
