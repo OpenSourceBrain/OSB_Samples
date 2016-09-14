@@ -10,4 +10,4 @@ var widthScreen = this.innerWidth;var heightScreen = this.innerHeight;var margin
 
 showModelDescription(l23)
 l23.Pop_cADpyr229_L23_PC_5ecbf9b163_0_0[0].select()
-Model.neuroml.morphology.Ih_apical.show(true))
+Model.neuroml.morphology.Ih_apical.show(true)
