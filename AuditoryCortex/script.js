@@ -1,4 +1,4 @@
-Model.neuroml.resolveAllImportTypes();
+Model.neuroml.resolveAllImportTypes(function() { $(".osb-notification").hide(); });
 
 Project.getActiveExperiment().playAll();
 
@@ -17,7 +17,7 @@ Popup1.setSize(256.8,441.8)
 acnet2.baskets_12[0].select()
 
 G.addWidget(0);
-Plot1.setName("Primary Auditory Cortext Network - Some membrane potentials");
+Plot1.setName("Primary Auditory Cortex Network - Some membrane potentials");
 Plot1.setPosition(113, 90);
 Plot1.setSize(230,445);
 Plot1.plotData(acnet2.pyramidals_48[0].soma_0.v);
