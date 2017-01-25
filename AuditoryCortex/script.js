@@ -8,7 +8,7 @@ Connectivity1.setData(acnet2,{linkType:function(c){return GEPPETTO.ModelFactory.
 
 G.addWidget(1);
 //Popup1.setMessage(Project.getActiveExperiment().getDescription());
-Popup1.setMessage("Network model of primary auditory cortex in rodents by David Beeman, University of Colorado, Boulder.<br/><br/> The <b>original OSB project</b> for this model is <a target='_blank' href='http://opensourcebrain.org/projects/acnet2'>here</a> and what you are viewing now is a <b>prerecorded simulation</b> of the model, which was run in the NEURON simulator.<br/><br/>You can run your own simulations of this model by signing up to OSB, signing in, going to the <a target='_blank' href='http://opensourcebrain.org/projects/acnet2'>OSB project</a> and clicking on <b>Explore model</b>.")
+Popup1.setMessage("Network model of primary auditory cortex in rodents by David Beeman, University of Colorado, Boulder.<br/><br/> The <b>original OSB project</b> for this model can be found <a target='_blank' href='http://opensourcebrain.org/projects/acnet2'>here</a> and what you are viewing now is a <b>prerecorded simulation</b> of the model, which was run in the NEURON simulator.<br/><br/>You can run your own simulations of this model by signing up to OSB, signing in, going to the <a target='_blank' href='http://opensourcebrain.org/projects/acnet2'>OSB project</a> and clicking on <b>Explore model</b>.")
 Popup1.setName("Description");
 G.incrementCameraPan(-0.1, 0)
 Connectivity1.setPosition(1042,256)
