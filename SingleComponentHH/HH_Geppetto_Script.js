@@ -27,7 +27,6 @@ Popup1.setName("Description");
 Popup1.setPosition(1074,142)
 Popup1.setSize(391.8,454.8)
 
-G.addBrightnessFunction(hhcell.hhpop[0], hhcell.hhpop[0].v, function(x){return (x+0.07)/0.1;});
 
 initOSBGeppetto("cell","hhcell")
 
